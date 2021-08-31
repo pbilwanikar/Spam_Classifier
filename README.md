@@ -6,9 +6,13 @@ for example message data had "u" for "you"
 which is clearly understanable for us buyt not for machine. So stemming was used to get the stem word. Stemming was imported from PorterStemmer present in porter module.
 
 For the model - Naive Bayes classifier algorithm was used. 
+
 <img src ="images/naivebayes.png">
+
 This algorithm is most of the the time used for small cases, as it gives high accuracy.
+
 The confusion matrix obtained is as below
+
 <img src ="images/confusionmatrix.png">
 
 
